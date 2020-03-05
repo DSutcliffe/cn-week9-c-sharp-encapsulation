@@ -1,5 +1,12 @@
 
+Hide data from everything.....
 
+default now is Public
+
+can access private function
+cant access a private variable
+
+public method can access private variables within same class!
 
 
 ********************************************************************
