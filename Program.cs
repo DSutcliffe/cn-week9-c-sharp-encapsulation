@@ -32,7 +32,9 @@ namespace cn_week9_c_sharp_encapsulation
             double myDouble = 44.0;
             int myInt = 44;
             bool myBool = true;
-            Console.WriteLine();
+            Console.WriteLine(Convert.ToString(myDouble));
+            Console.WriteLine(Convert.ToString(myInt));
+            Console.WriteLine(Convert.ToString(myBool));
 
             // Console.WriteLine("Please enter your user details: ");
             // userInput = Console.ReadLine();
